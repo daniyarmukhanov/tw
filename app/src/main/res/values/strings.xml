@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TengeWork</string>
+    <string name="to_hands">Қолға алатыным</string>
+    <string name="write_salary">Айлығыңызды жазыңыз (тг)</string>
+</resources>
